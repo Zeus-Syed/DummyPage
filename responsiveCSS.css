@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+/*:root{
+	font-size: 10px;
+}*/
+body{
+	background: skyblue;
+}
+.parent {
+background: tomato;
+height: 80vh;
+width: 80vw;
+}
+.child {
+background: lime;
+height: 50vh;
+width: 60vw;
+}
+.second-child {
+background: blue;
+height: 70vmin;
+width: 60vmax;
+}
